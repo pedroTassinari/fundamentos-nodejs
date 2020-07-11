@@ -1,5 +1,5 @@
 # Fundamentos do Node.js
-API desenvolvida em Node.js, utilizando TypeScript, para fazer um pequeno gerenciamento de transações financeiras, empregando alguns conceitos de arquitetura como: model, repository e service.
+API desenvolvida em Node.js para um desafio do bootcamp GoStack, utilizando TypeScript e empregando alguns conceitos de arquitetura como: model, repository e service. Ela tem como principal objetivo efeturar um pequeno gerenciamento de transações financeiras, com entradas e saídas de dados, e devolver um de balanço financeiro.
 
 ## Tecnologias e ferramentas utilizadas
 - Node.js
@@ -12,7 +12,7 @@ API desenvolvida em Node.js, utilizando TypeScript, para fazer um pequeno gerenc
 ## Guia prático
 
 ### Pré-requisitos para executar o projeto localmente
-- node.js
+- Node.js
 - npm ou yarn
 
 ### Clonando o repositório
