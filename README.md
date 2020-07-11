@@ -20,12 +20,13 @@ API desenvolvida em Node.js, utilizando TypeScript, para fazer um pequeno gerenc
 ```git clone https://github.com/pedroTassinari/fundamentos-nodejs```
 
 ### Instalando as dependências
->Para executar estes comandos e os próximos é necessário estar na pasta do projeto
-```npm install```
-ou
-```yarn```
+>Para executar estes comandos e os próximos é necessário estar na pasta do projeto.
+
+```    npm install   ```
+       ou
+```    yarn    ```
 
 ### Executando o projeto
-```yarn dev:server```
-ou
-```npm run dev:server```
+```    yarn dev:server    ```
+         ou
+```    npm run dev:server    ```
