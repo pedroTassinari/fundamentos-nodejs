@@ -5,7 +5,6 @@ API desenvolvida em Node.js, utilizando TypeScript, para fazer um pequeno gerenc
 - Node.js
 - TypeScript
 - Express
-- npm
 - Insomnia
 - ts-node-dev
 - uuidv4
