@@ -23,10 +23,14 @@ API desenvolvida em Node.js, utilizando TypeScript, para fazer um pequeno gerenc
 >Para executar estes comandos e os próximos é necessário estar na pasta do projeto.
 
 ```    npm install   ```
-       ou
+
+   ou
+       
 ```    yarn    ```
 
 ### Executando o projeto
 ```    yarn dev:server    ```
-         ou
+
+ ou
+
 ```    npm run dev:server    ```
